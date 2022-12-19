@@ -1,1 +1,2 @@
 Hello everybody in the world except Cheesey Jim, you get a gouda greeting.
+Now testing new config using VSCode as message input for git commits.
